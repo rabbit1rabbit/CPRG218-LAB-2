@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Banana Split
+Ingredients
+- 1 Banana
+- 1 cup icecream
+- 2 tsp chocolate syrup
+
+Instructions:
+1. cut banana in half
+2. place banana on plate/bowl
+3. scoop ice cream onto the middle of the banana
+4. drizzle chocolate syrup
